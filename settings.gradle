@@ -12,4 +12,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "TastApp"
-include ':app'app'
+include ':app'
